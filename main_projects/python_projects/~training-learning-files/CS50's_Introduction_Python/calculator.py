@@ -1,8 +1,10 @@
+
 def main():
-    x=float(input("Whats X? "))
+    x = float(input("What's X? "))
     print("x squared is", square(x))
 
 def square(n):
-    return n*n
+    return n * n
 
-main()
+if __name__ == "__main__":
+    main()
