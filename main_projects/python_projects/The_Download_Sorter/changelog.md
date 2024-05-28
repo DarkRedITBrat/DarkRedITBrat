@@ -9,6 +9,7 @@
 New part of the Script written. => Final Completion Message will be printet to the User.
 
 The Finished Message looks like this:
+
     =================================================================================
     All Files have been sorted into the corresponding folders.
     Unknown file types can be found in the 'Unknown File Types'-Folder!
